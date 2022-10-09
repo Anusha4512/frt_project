@@ -45,7 +45,7 @@ We are BTech pursuing Students,from both 4th and 3rd year we consider this as pr
 
 -  G Anusha (Lead)
 
--  C Anusha
+-  Ch Anusha
 
 - Ch Meghana
 
