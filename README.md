@@ -2,8 +2,7 @@
 
 
 
-AZURE LINK : 
-**Project Link** - https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
+**Project Link** - https://green-meadow-0f8cd4810.2.azurestaticapps.net
 
 **project demo video link** -
 
